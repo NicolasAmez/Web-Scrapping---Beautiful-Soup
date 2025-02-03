@@ -1,0 +1,158 @@
+id,name,types of restaurants,country,state,zip code,distinction,sustainability
+1,Tacos Charly,Mexican, Mexico,Ciudad de México, 14050,Bib Gourmand,-
+2,Castacán,Mexican, Mexico,Ciudad de México, 06700,-,-
+3,Los Consentidos del Barrio,Mexican, Mexico,Ciudad de México, 03200,Bib Gourmand,-
+4,Taquería El Califa de León,Mexican, Mexico,Ciudad de México, 06470,One Star,-
+5,Taquería El Jarocho,Mexican, Mexico,Ciudad de México, 06700,Bib Gourmand,-
+6,Cariñito Tacos,Mexican, Mexico,Ciudad de México, 06700,-,-
+7,Tacos Hola El Güero,Mexican, Mexico,Ciudad de México, 06100,-,-
+8,Guzina Oaxaca,"Mexican, RegionalCuisine", Mexico,Ciudad de México, 11560,-,-
+9,Expendio de Maíz,Mexican, Mexico,Ciudad de México, 06700,Bib Gourmand,-
+10,Mari Gold,"Fusion, Indian", Mexico,Ciudad de México, 11850,-,-
+11,Masala y Maíz,Fusion, Mexico,Ciudad de México, 06040,Bib Gourmand,-
+12,Martínez,Contemporary, Mexico,Ciudad de México, 06700,-,-
+13,Limosneros,"Mexican, TraditionalCuisine", Mexico,Ciudad de México, 06010,-,-
+14,Aúna,Contemporary, Mexico,Ciudad de México, 11550,-,-
+15,Carmela y Sal,Mexican, Mexico,Ciudad de México, 11040,-,-
+16,Taqueria Los Cocuyos,Mexican, Mexico,Ciudad de México, 06000,Bib Gourmand,-
+17,Contramar,"Mexican, Seafood", Mexico,Ciudad de México, 06700,-,-
+18,Nicos,"Mexican, TraditionalCuisine", Mexico,Ciudad de México, 02080,-,-
+19,Galanga Thai House,Thai, Mexico,Ciudad de México, 06700,Bib Gourmand,-
+20,Raíz,"Mexican, Contemporary", Mexico,Ciudad de México, 11560,Bib Gourmand,-
+21,Taqueria El Paisa,Mexican, Mexico,Ciudad de México, 06470,-,-
+22,Comedor Jacinta,"Mexican, TraditionalCuisine", Mexico,Ciudad de México, 11550,Bib Gourmand,-
+23,Entremar,"Mexican, Seafood", Mexico,Ciudad de México, 11560,-,-
+24,Botánico,Contemporary, Mexico,Ciudad de México, 06100,-,-
+25,Los Danzantes Mexico City,"Mexican, Contemporary", Mexico,Ciudad de México, 04000,-,-
+26,Molino El Pujol,Mexican, Mexico,Ciudad de México, 06100,Bib Gourmand,-
+27,El Vilsito,Mexican, Mexico,Ciudad de México, 03020,Bib Gourmand,-
+28,Pujol,"Mexican, ModernCuisine", Mexico,Ciudad de México, 11550,Two Stars:,-
+29,Lorea,"Mexican, Contemporary", Mexico,Ciudad de México, 06700,-,-
+30,Em,"Mexican, Contemporary", Mexico,Ciudad de México, 06700,One Star,-
+31,Comal Oculto,Mexican, Mexico,Ciudad de México, 11850,Bib Gourmand,-
+32,Sarde,Contemporary, Mexico,Ciudad de México, 06700,-,-
+33,Siembra Tortillería,Mexican, Mexico,Ciudad de México, 11560,Bib Gourmand,-
+34,El Tigre Silencioso,"Mexican, Creative", Mexico,Ciudad de México, 06700,-,-
+35,Migrante,International, Mexico,Ciudad de México, 06700,-,-
+36,Fugaz,"Mexican, MediterraneanCuisine", Mexico,Ciudad de México, 06700,Bib Gourmand,-
+37,Barbacoa Gonzalitos,"Mexican, RegionalCuisine", Mexico,Ciudad de México, 06700,-,-
+38,Pargot,"Mexican, Creative", Mexico,Ciudad de México, 06700,Bib Gourmand,-
+39,Gaba,Mexican, Mexico,Ciudad de México, 06170,-,-
+40,Cana,"Contemporary, International", Mexico,Ciudad de México, 06600,-,-
+41,Sud 777,"Creative, Vegetarian", Mexico,Ciudad de México, 01900,One Star,-
+42,Tacos Doña Mary La Gritona,Mexican, Mexico,Nuevo León, 64000,Bib Gourmand,-
+43,"Tacos ""El Compadre""",Mexican, Mexico,Nuevo León, 64000,-,-
+44,Punta Corcho,"Mexican, Seafood", Mexico,Quintana Roo, 77580,Bib Gourmand,-
+45,Restaurante Punta Morro,Mexican, Mexico,Baja California, 22870,-,-
+46,Ruba's Bakery,"Mexican, Bakery", Mexico,Baja California Sur, 23406,-,-
+47,Levadura de Olla Restaurante,"Mexican, TraditionalCuisine", Mexico,Oaxaca, 68000,One Star,-
+48,Almoraduz,Mexican, Mexico,Oaxaca, 71983,-,-
+49,CARBÓNCABRÓN,Contemporary, Mexico,Baja California Sur, 23400,-,-
+50,Ancestral Cocina Tradicional,Mexican, Mexico,Oaxaca, 68040,-,-
+51,Alfonsina,Mexican, Mexico,Oaxaca, 71232,Bib Gourmand,-
+52,Maizajo,Mexican, Mexico,Ciudad de México, 06140,-,-
+53,Ricos Tacos Toluca,Mexican, Mexico,Ciudad de México, 06000,-,-
+54,Filigrana,"Mexican, Contemporary", Mexico,Ciudad de México, 06700,Bib Gourmand,-
+55,Campobaja,"Seafood, RegionalCuisine", Mexico,Ciudad de México, 06700,-,-
+56,MeroToro,"Mexican, Contemporary", Mexico,Ciudad de México, 06100,-,-
+57,Aleli Rooftop,"Grills, International", Mexico,Ciudad de México, 06700,Bib Gourmand,-
+58,Caracol de Mar,Mexican, Mexico,Ciudad de México, 06100,Bib Gourmand,-
+59,Esquina Común,"Mexican, Creative", Mexico,Ciudad de México, 06140,One Star,-
+60,Galea,Italian, Mexico,Ciudad de México, 06700,Bib Gourmand,-
+61,Sartoria,Italian, Mexico,Ciudad de México, 06700,-,-
+62,Rosetta,"Mexican, Creative", Mexico,Ciudad de México, 06700,One Star,-
+63,La Barra de Fran,Spanish, Mexico,Ciudad de México, 11560,-,-
+64,Taqueria Los Parados,Mexican, Mexico,Ciudad de México, 06760,-,-
+65,Quintonil,"Mexican, Contemporary", Mexico,Ciudad de México, 11560,Two Stars:,-
+66,Máximo,International, Mexico,Ciudad de México, 06700,-,-
+67,Bajel,Contemporary, Mexico,Ciudad de México, 06500,-,-
+68,Tacos Los Alexis,"Mexican, Creative", Mexico,Ciudad de México, 06700,Bib Gourmand,-
+69,Er Rre un Bistró,"International, Contemporary", Mexico,Ciudad de México, 11560,-,-
+70,Pigeon,International, Mexico,Ciudad de México, 06700,-,-
+71,Malix,International, Mexico,Ciudad de México, 11560,-,-
+72,Ostrería 109,"Seafood, Contemporary", Mexico,Ciudad de México, 06100,-,-
+73,Vernáculo,Mexican, Mexico,Nuevo León, 66260,-,-
+74,Bu’ul,"Mexican, Creative", Mexico,Quintana Roo, 77710,-,-
+75,Latitud 32,Mexican, Mexico,Baja California, 22755,-,-
+76,Restaurante Amores,Mexican, Mexico,Baja California, 21400,-,-
+77,Madre,Mexican, Mexico,Baja California, 22800,-,-
+78,Tacos Mi Ranchito El Fenix,Mexican, Mexico,Baja California, 22830,-,-
+79,Las Quince Letras,"Mexican, RegionalCuisine", Mexico,Oaxaca, 68000,Bib Gourmand,-
+80,Cobarde,Contemporary, Mexico,Oaxaca, 68000,Bib Gourmand,-
+81,Casa Marcelo,Mexican, Mexico,Baja California, 22800,Bib Gourmand,-
+82,Ophelia,MediterraneanCuisine, Mexico,Baja California, 22760,-,-
+83,Sabina,"Mexican, Seafood", Mexico,Baja California, 22800,Bib Gourmand,-
+84,Itanoní,"Mexican, TraditionalCuisine", Mexico,Oaxaca, 68050,-,-
+85,Teocintle-Tika'aya,"Mexican, Contemporary", Mexico,Oaxaca, 68000,-,-
+86,Mestixa,"Mexican, Fusion", Mexico,Quintana Roo, 77760,Bib Gourmand,-
+87,Deckman's En El Mogor,Mexican, Mexico,Baja California, 22766,-,Green Star
+88,Animalón,"Mexican, Contemporary", Mexico,Baja California, 22750,One Star,-
+89,Tierra del Sol,"Mexican, TraditionalCuisine", Mexico,Oaxaca, 68000,Bib Gourmand,-
+90,Manta,"Mexican, Fusion", Mexico,Baja California Sur, 23456,-,-
+91,Primitivo,Contemporary, Mexico,Baja California, 22760,-,-
+92,Arca,"Mexican, Contemporary", Mexico,Quintana Roo, 77780,-,-
+93,HA',"Mexican, Contemporary", Mexico,Quintana Roo, 77710,One Star,-
+94,Asador Bacanora Oaxaca,Mexican, Mexico,Oaxaca, 68080,-,-
+95,María Dolores,"Mexican, Contemporary", Mexico,Quintana Roo, 77400,-,-
+96,Lumbre,Mexican, Mexico,Baja California Sur, 23400,-,-
+97,Posada Margherita,Italian, Mexico,Quintana Roo, 77760,-,-
+98,Omakai,Japanese, Mexico,Baja California Sur, 23400,-,-
+99,Damiana,"Mexican, Fusion", Mexico,Baja California, 22034,One Star,-
+100,Cocina de Campo by Agricole,Contemporary, Mexico,Baja California Sur, 23310,Bib Gourmand,-
+101,Nao,MediterraneanCuisine, Mexico,Baja California Sur, 23400,-,-
+102,Tacos Marco Antonio,Mexican, Mexico,Baja California, 22830,-,-
+103,El Paisa,Mexican, Mexico,Baja California, 22800,-,-
+104,Cocina de Autor Riviera Maya,"Mexican, Creative", Mexico,Quintana Roo, 77710,One Star,-
+105,Woodend,Contemporary, Mexico,Quintana Roo, 77720,-,-
+106,Labo Fermento,Asian, Mexico,Oaxaca, 68000,Bib Gourmand,-
+107,Atarraya,Mexican, Mexico,Oaxaca, 70934,-,-
+108,La Olla,Mexican, Mexico,Oaxaca, 68000,Bib Gourmand,-
+109,Oryx,"Mexican, Contemporary", Mexico,Baja California, 22015,-,-
+110,Humo y Sal,"Mexican, Seafood", Mexico,Baja California, 22860,Bib Gourmand,-
+111,Mision 19,Mexican, Mexico,Baja California, 22010,-,-
+112,Zandunga,"Mexican, RegionalCuisine", Mexico,Oaxaca, 68000,-,-
+113,El Fogón,Mexican, Mexico,Quintana Roo, 77720,-,-
+114,Casa Oaxaca El Restaurante,"Mexican, Contemporary", Mexico,Oaxaca, 68000,-,-
+115,Criollo,"Mexican, TraditionalCuisine", Mexico,Oaxaca, 68000,-,-
+116,Taqueria La Principal,Mexican, Mexico,Baja California, 22750,-,-
+117,Kous Kous,Moroccan, Mexico,Baja California, 22758,-,-
+118,Conchas de Piedra,"Mexican, Seafood", Mexico,Baja California, 22761,One Star,Green Star
+119,Crudo,"Mexican, Fusion", Mexico,Oaxaca, 68000,-,-
+120,DŪM,Mexican, Mexico,Baja California Sur, 23300,-,-
+121,Villa Torél,"Mexican, Contemporary", Mexico,Baja California, 22766,Bib Gourmand,-
+122,Acre,Mexican, Mexico,Baja California Sur, 23407,-,Green Star
+123,Los Danzantes Oaxaca,"Mexican, TraditionalCuisine", Mexico,Oaxaca, 68000,One Star,Green Star
+124,Flora's Field Kitchen,Contemporary, Mexico,Baja California Sur, 23407,Bib Gourmand,Green Star
+125,Pangea,"Mexican, Contemporary", Mexico,Nuevo León, 66266,One Star,-
+126,Manzanilla,"Mexican, Contemporary", Mexico,Baja California, 22800,-,-
+127,Oystera,"Mexican, Seafood", Mexico,Baja California Sur, 23300,-,-
+128,Cetli,Mexican, Mexico,Quintana Roo, 77780,Bib Gourmand,-
+129,Wild,"Mexican, Contemporary", Mexico,Quintana Roo, 77780,-,-
+130,Olivea Farm to Table,Contemporary, Mexico,Baja California, 22766,-,-
+131,Le Chique,"Mexican, Contemporary", Mexico,Quintana Roo, 77580,One Star,-
+132,Metate,Mexican, Mexico,Baja California Sur, 23454,Bib Gourmand,-
+133,Casa Banana,Argentinian, Mexico,Quintana Roo, 77780,-,-
+134,NÜ Tulum,"Mexican, Contemporary", Mexico,Quintana Roo, 77780,-,-
+135,TENOCH by Paradero Todos Santos,"Mexican, Contemporary", Mexico,Baja California Sur, 23300,-,-
+136,La Cocina de Doña Esthela,Mexican, Mexico,Baja California, 22755,Bib Gourmand,-
+137,Bruma Wine Garden,Contemporary, Mexico,Baja California, 22760,-,-
+138,Malva,"Mexican, Contemporary", Mexico,Baja California, 22755,-,-
+139,Benno,"Mexican, MediterraneanCuisine", Mexico,Baja California Sur, 23300,-,-
+140,Envero en el Valle,Mexican, Mexico,Baja California, 22750,-,-
+141,Lunario,"Mexican, Contemporary", Mexico,Baja California, 22750,-,Green Star
+142,Autor,"Mexican, Contemporary", Mexico,Quintana Roo, 77775,-,-
+143,Fonda San Francisco,Mexican, Mexico,Nuevo León, 66230,-,-
+144,KOLI Cocina de Origen,"Mexican, Creative", Mexico,Nuevo León, 66220,One Star,-
+145,Hartwood,Mexican, Mexico,Quintana Roo, 77780,-,-
+146,Axiote Cocina de Mexico,Mexican, Mexico,Quintana Roo, 77710,Bib Gourmand,-
+147,Comal,"Mexican, Contemporary", Mexico,Baja California Sur, 23410,-,-
+148,Kiosco Verde,"Seafood, RegionalCuisine", Mexico,Quintana Roo, 77520,-,-
+149,Merak,"Mexican, Contemporary", Mexico,Baja California, 22766,Bib Gourmand,-
+150,La Casa De Las Mayoras,"Mexican, Vegetarian", Mexico,Quintana Roo, 77524,-,-
+151,Tacos El Franc,Mexican, Mexico,Baja California, 22010,-,-
+152,Cocina de Autor Los Cabos,Mexican, Mexico,Baja California Sur, 23405,One Star,-
+153,Carmelita Molino y Cocina,Mexican, Mexico,Baja California, 22055,Bib Gourmand,-
+154,Los Tres Gallos,Mexican, Mexico,Baja California Sur, 23469,-,-
+155,Corazón D'Petra,Mexican, Mexico,Baja California, 22755,-,-
+156,La Concheria,"Mexican, Seafood", Mexico,Baja California, 22800,Bib Gourmand,-
+157,Arbol,"Indian, Asian", Mexico,Baja California Sur, 23400,-,-
